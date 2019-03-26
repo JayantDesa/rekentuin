@@ -1,0 +1,60 @@
+
+html{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}	
+h1{
+	font-size: 56px;
+	padding-top: -1%;
+	float: left;
+	color: #E8F200;
+	text-decoration: underline;
+	
+}
+#logo{
+	float: right;
+	padding-top: 1%;
+}
+
+body{
+	height: 1000px;
+	background-image: url(afbeeldingen/Rekentuin2.jpg);
+	background-repeat: no-repeat;
+}
+
+#oefenen{
+	padding-left: 63%;
+	padding-top: 7%;
+}
+
+#toetsen{
+	padding-left: 71%;
+	padding-top: 26%;
+}
+
+#oefenblad{
+	padding-left: 15%;
+	padding-bottom: 30%;
+}
+
+h2{
+	color: #E8F200;
+}
+a:link {
+    color: #E8F200;
+}
+
+a:visited {
+    color: #E8F200;
+}
+
+a:hover {
+    color: #E8F200;
+}
+
+a:active {
+    color: #E8F200;
+}
+
+
